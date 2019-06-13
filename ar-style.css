@@ -1,0 +1,96 @@
+html ,  body , .container {
+   height: 100%;
+
+}
+body{
+  margin: 0;
+  font-family: Arial , serif;
+}
+.table-container{
+  height: 100%;
+  width: 100%;
+}
+
+.right-side{
+     background-color: #050557;
+     width: 275px;
+     color: white;
+     font-family: serif , Arial;
+     padding-right: 15px;
+     vertical-align: top;
+}
+.btn-en {
+    text-align: center;
+
+}
+
+.btn-en input {
+      height: 27px;
+      width: 99px;
+      border-radius: 7%;
+      background-color: #4682be;
+      color: white;
+      border-color: #4682be;
+}
+
+
+.avatar img {
+  display: block;
+  margin: 0 auto;
+  border-radius: 50%;
+  padding-left: 10px;
+  height: 223px;
+  width: 223px
+}
+
+.theline{
+      background-color: #4682be;
+      height: 5px;
+      width: 90%;
+      margin-top: 17px;
+}
+.social {
+    text-align: center;
+}
+
+.social a img {
+  height: 50px;
+  width: 50px;
+}
+
+#twit {
+      height: 38px;
+      width: 38px;
+      padding-bottom: 5px;
+}
+
+.drive{
+
+}
+
+#cv-drive{
+  color: white;
+  text-decoration: none;
+}
+
+.left-side{
+  background-color: #0565c41a;
+  padding-right: 15px;
+  padding-left: 5px;
+  vertical-align: top;
+}
+
+.left-side h2{
+      background-color: #4682be;
+      padding: 15px;
+      color: white;
+}
+
+.left-side p{
+  font-size: 22px;
+}
+
+.left-side li{
+  font-size: 20px;
+    padding: 10px;
+}

@@ -1,0 +1,103 @@
+html ,  body , .container {
+   height: 100%;
+
+}
+body{
+  margin: 0;
+  font-family: inherit , Arial ;
+}
+.table-container{
+  height: 100%;
+  width: 100%;
+}
+
+
+.left-side{
+     background-color: #050557;
+     width: 275px;
+     color: white;
+     font-family: serif , Arial;
+     padding-left: : 15px;
+     vertical-align: top;
+   }
+
+   .left-side h4{
+     margin-left: 9px;
+
+   }
+
+   .btn-en {
+       text-align: center;
+
+   }
+
+   .btn-en input {
+         height: 27px;
+         width: 99px;
+         border-radius: 7%;
+         background-color: #4682be;
+         color: white;
+         border-color: #4682be;
+         font-size: 19px;
+   }
+
+
+   .avatar img {
+     display: block;
+     margin: 0 auto;
+     border-radius: 50%;
+     padding-left: 10px;
+     height: 223px;
+     width: 223px
+   }
+
+   .theline{
+         background-color: #4682be;
+         height: 5px;
+         width: 90%;
+         margin-top: 17px;
+         margin-left: 10px;
+   }
+   .social {
+       text-align: center;
+   }
+
+   .social a img {
+     height: 50px;
+     width: 50px;
+   }
+
+   #twit {
+         height: 38px;
+         width: 38px;
+         padding-bottom: 5px;
+   }
+   .drive{
+
+   }
+   #cv-drive{
+     color: white;
+    text-decoration: none;
+   }
+
+   .right-side{
+     background-color: #0565c41a;
+     padding-right: 15px;
+     padding-left: 5px;
+     vertical-align: top;
+   }
+
+   .right-side h2{
+         background-color: #4682be;
+         padding: 15px;
+         color: white;
+   }
+
+   .right-side p{
+     font-size: 22px;
+   }
+
+   .right-side li{
+     font-size: 20px;
+       padding: 10px;
+   }
